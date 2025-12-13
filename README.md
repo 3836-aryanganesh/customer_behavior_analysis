@@ -5,7 +5,9 @@ This project represents a complete, industry standard, end-to-end data analytics
 This project is perfect for:
 
   📊 Data Analyst aspirants who want to build a strong Portfolio Project for interviews and LinkedIn
+	
   📚 Anyone learning Python, SQL, and Power BI
+	
   💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
 
 **📌 Project Overview**
@@ -26,32 +28,32 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
  This file contains:
 
-   Data Import
+  	Data Import
 
-   Data exploration
+   	Data exploration
 
-   Data cleaning
+   	Data cleaning
 
-   Connection to SQL Database
+   	Connection to SQL Database
 
 **2.Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
 
-   Create a database in SQL
+   	Create a database in SQL
 
-   Run Python code to load data into SQL database
+   	Run Python code to load data into SQL database
 
-   Open customer_behavior_sql_queries.sql
+   	Open customer_behavior_sql_queries.sql
 
-   Answer Business Questions using SQL Queries
+   	Answer Business Questions using SQL Queries
 
 **3.Connect the SQL Database to Power BI**
 
-   Open customer_behavior_dashboard.pbix
+  	 Open customer_behavior_dashboard.pbix
 
-   Create interactive dashboard in Power BI
+  	 Create interactive dashboard in Power BI
 
-**Create Project Report and Presentation**
+**4.Create Project Report and Presentation**
 
-   Create project report
+  	 Create project report
 
-   Build presentation deck using Gamma AI
+  	 Build presentation deck using Gamma AI
